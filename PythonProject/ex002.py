@@ -1,0 +1,7 @@
+num1 = float(input('Digite um número: '))
+num2 = float(input('Digite outro número: '))
+print('Perfeito! vamos começar as operações!')
+print(f'A soma do numero {num1} com o {num2} é {num1 + num2 }')
+print(f'A subtração do numero {num1} com o {num2} é {num1 - num2 }')
+print(f'A multiplicação do numero {num1} com o {num2} é {num1 * num2 }')
+print(f'A divisão do numero {num1} pelo o {num2} é {num1 / num2 }')
